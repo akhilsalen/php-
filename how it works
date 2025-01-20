@@ -1,0 +1,4 @@
+The web server runs the PHP script
+The parser interprets the PHP portion of the page
+The parser performs the operations called for in the PHP script
+The parser generates the Hypertext Markup Language (HTML)
